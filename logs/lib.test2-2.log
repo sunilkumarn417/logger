@@ -1,0 +1,11 @@
+2022-12-02 21:25:20,933 - INFO - caller-ci.lib.test2-2 - lib.test2.py:9 - Running lib.test2-2 for 10
+2022-12-02 21:25:20,933 - INFO - caller-ci.lib.test2-2 - utils.utils.py:7 - Running lib.test2-2.run for 0
+2022-12-02 21:25:21,935 - INFO - caller-ci.lib.test2-2 - utils.utils.py:7 - Running lib.test2-2.run for 1
+2022-12-02 21:25:22,937 - INFO - caller-ci.lib.test2-2 - utils.utils.py:7 - Running lib.test2-2.run for 2
+2022-12-02 21:25:23,939 - INFO - caller-ci.lib.test2-2 - utils.utils.py:7 - Running lib.test2-2.run for 3
+2022-12-02 21:25:24,940 - INFO - caller-ci.lib.test2-2 - utils.utils.py:7 - Running lib.test2-2.run for 4
+2022-12-02 21:25:25,942 - INFO - caller-ci.lib.test2-2 - utils.utils.py:7 - Running lib.test2-2.run for 5
+2022-12-02 21:25:26,943 - INFO - caller-ci.lib.test2-2 - utils.utils.py:7 - Running lib.test2-2.run for 6
+2022-12-02 21:25:27,944 - INFO - caller-ci.lib.test2-2 - utils.utils.py:7 - Running lib.test2-2.run for 7
+2022-12-02 21:25:28,945 - INFO - caller-ci.lib.test2-2 - utils.utils.py:7 - Running lib.test2-2.run for 8
+2022-12-02 21:25:29,946 - INFO - caller-ci.lib.test2-2 - utils.utils.py:7 - Running lib.test2-2.run for 9

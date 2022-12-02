@@ -1,8 +1,4 @@
-.*.sw[nmop]
-*.pyc
-.tox
-__pycache__
+**/__pycache__/
 ven*
-*egg*
 .idea
-*.iml
+**/*.pyc
