@@ -1,0 +1,11 @@
+2022-12-02 14:56:56,534 - caller-main.lib.test1 - test1.run:9 - INFO - Running lib.test1 for 10 iterations.....
+2022-12-02 14:56:56,534 - caller-main.lib.test1 - utils.print_msg:3 - INFO - Running lib.test1.run for 0
+2022-12-02 14:56:57,535 - caller-main.lib.test1 - utils.print_msg:3 - INFO - Running lib.test1.run for 1
+2022-12-02 14:56:58,537 - caller-main.lib.test1 - utils.print_msg:3 - INFO - Running lib.test1.run for 2
+2022-12-02 14:56:59,538 - caller-main.lib.test1 - utils.print_msg:3 - INFO - Running lib.test1.run for 3
+2022-12-02 14:57:00,540 - caller-main.lib.test1 - utils.print_msg:3 - INFO - Running lib.test1.run for 4
+2022-12-02 14:57:01,541 - caller-main.lib.test1 - utils.print_msg:3 - INFO - Running lib.test1.run for 5
+2022-12-02 14:57:02,543 - caller-main.lib.test1 - utils.print_msg:3 - INFO - Running lib.test1.run for 6
+2022-12-02 14:57:03,544 - caller-main.lib.test1 - utils.print_msg:3 - INFO - Running lib.test1.run for 7
+2022-12-02 14:57:04,545 - caller-main.lib.test1 - utils.print_msg:3 - INFO - Running lib.test1.run for 8
+2022-12-02 14:57:05,547 - caller-main.lib.test1 - utils.print_msg:3 - INFO - Running lib.test1.run for 9
